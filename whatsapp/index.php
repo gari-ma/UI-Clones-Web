@@ -60,7 +60,7 @@
         <div class="pinfo flex justify-between">
                 <div class="image"><img class="rounded-full w-12 h-12  " src="https://media.licdn.com/dms/image/C4E03AQGk7tWZAhrqhQ/profile-displayphoto-shrink_800_800/0/1599020915646?e=2147483647&v=beta&t=RcwjVFY7t_iTfe7m-z1P0yaxHNBnVBqHjUBpNl8MTSg" alt=""></div>
                 <div class="mbox px-4">
-                    <div class="mname">Garima urau</div>
+                    <div class="mname">Sita karki</div>
                     <div class="msg">huss ❤️</div>
                 </div>
         </div>
